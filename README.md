@@ -1,6 +1,6 @@
 # MIP Supervision
 
-[![Open Word-Level In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DazL1mF3DXJERUX38-1bjUyS1gjXzZ6q?usp=sharing)
+[![Open Word-Level In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/imadtoubal/MIP-Supervision/blob/master/demo.ipynb)
 
 A simple PyTorch implementation of: Koziński M, Mosinska A, Salzmann M, Fua P. Tracing in 2D to reduce the annotation effort for 3D deep delineation of linear structures. Medical Image Analysis. 2020 Feb;60:101590. DOI: 10.1016/j.media.2019.101590.
 
