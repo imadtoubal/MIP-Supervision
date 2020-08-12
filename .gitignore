@@ -1,3 +1,7 @@
 *.zip
 CHAOS_Train_Sets
 CHAOS_Test_Sets
+
+__pycache__
+
+runs
