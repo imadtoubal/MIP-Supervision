@@ -48,3 +48,11 @@ In the above example, the input is 1 channel volume, and the output is 3-class (
 ## Training
 
 TODO
+
+# References
+
+\[1\] A.E. Kavur, M. A. Selver, O. Dicle, M. Barış, N.S. Gezer. CHAOS - Combined (CT-MR) Healthy Abdominal Organ Segmentation Challenge Data (Version v1.03) \[Data set\]. Apr. 2019. Zenodo. http://doi.org/10.5281/zenodo.3362844
+
+\[2\] O. Ronneberger, P. Fischer, and T. Brox. U-Net: Convolutional Networks for Biomedical Image Segmentation. In MICCAI, 2015.
+
+\[3\] Koziński M, Mosinska A, Salzmann M, Fua P. Tracing in 2D to reduce the annotation effort for 3D deep delineation of linear structures. Medical Image Analysis. 2020 Feb;60:101590. DOI: 10.1016/j.media.2019.101590.
